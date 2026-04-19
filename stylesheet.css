@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+#red {
+	color: rgba(100%, 0%, 0%, 1.0);
+}
+
+#blue {
+	color: rgba(0%, 0%, 100%, 1.0);
+}
+
+#green {
+	color: rgba(0%, 100%, 0%, 1.0);
+}
